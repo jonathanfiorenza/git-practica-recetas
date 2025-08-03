@@ -12,3 +12,15 @@ main {
     height: 60vh;
     object-fit: cover;
 }
+ /*img de elegi lo q queres cocinar*/
+     .circulo-img{
+      width: 150px;
+      height: 150px;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 2px solid #eee;
+      display: block;
+      margin: 0 auto 10px auto;
+      
+    }
+    
