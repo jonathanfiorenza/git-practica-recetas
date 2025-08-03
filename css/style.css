@@ -23,4 +23,9 @@ main {
       margin: 0 auto 10px auto;
       
     }
-    
+    .img-comunidad {
+   width: 100px;
+   height: 250px;
+    object-fit: cover;
+   
+}
